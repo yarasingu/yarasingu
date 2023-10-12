@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Multiverse
-- 🌱 I’m currently learning ... Nothing
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
+- 🌱 I’m currently learning ... Quantum Computing
+- 👯 I’m looking to collaborate on ... identical DNA
+- 🤔 I’m looking for help with ... common symptoms
+- 💬 Ask me about ... spritual, सनातन धर्म
 - 📫 How to reach me: ... with my website
 - 😄 Pronouns: ... Yarasingu Tarun
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... life is a joke
 
