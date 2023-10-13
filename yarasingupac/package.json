@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "stackblitz": {
-    "startCommand": "npm start"
-  },
   "scripts": {
     "start": "webpack serve",
     "build": "webpack build --mode=production",
