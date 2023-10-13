@@ -1,4 +1,4 @@
-# Bootstrap w/ Webpack
+# My webapp /
 
 Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaScript plugins with [Webpack](https://webpack.js.org).
 
