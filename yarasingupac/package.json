@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "stackblitz": {
+    "startCommand": "npm start"
+  },
   "scripts": {
     "start": "webpack serve",
     "build": "webpack build --mode=production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "yarisingu Tarun",
+  "license": "GNU",
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "css-loader": "^6.8.1",
